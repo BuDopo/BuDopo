@@ -11,4 +11,4 @@
 ___
 
 
-<p align="center"> ${\textsf{\color{#cacfff} mt }}$
+<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
