@@ -13,4 +13,4 @@ ___
 
 <p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
 
-![Uploading bfdi-two-bfdi.gif…]()
+
