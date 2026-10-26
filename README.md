@@ -13,7 +13,9 @@
 <div align="center">
 	
 <p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
-
+<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
+<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
+<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
 
 
 <div align="right">
