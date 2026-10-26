@@ -7,12 +7,17 @@
 <img width="1460" height="230" alt="iZBq3gWETniVJRSeuqRMdD" src="https://github.com/user-attachments/assets/4361c57d-11ae-4d11-ba80-79582289e178" />
 
 
+<br>
+ <br>
+ <br>
+ <br>
+
 <div align="center">
 	
-<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
-<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
-<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
-<p align="center"> ${\textsf{\color{#cacfff} ПОТОМ }}$
+<p align="center"> ${\textsf{\color{#4851ff} ТУТ }}$
+<p align="center"> ${\textsf{\color{#ffd019} БУДЕТ }}$
+<p align="center"> ${\textsf{\color{#4851ff} КРАСИВЫЙ }}$
+<p align="center"> ${\textsf{\color{#ffd019} ТЕКСТ }}$
 
 
 <div align="right">
@@ -28,8 +33,6 @@
  <br>
  <br>
  <br>
-
- 
 
 <div align="center">
 
