@@ -2,24 +2,11 @@
 
 
 
- 
-<div align="center">
-	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=лимон+это+фрукт+или+БАБАН+//////)](https://git.io/typing-svg)    
 
-
-___
 
 <div align="center">
 
 <img width="1460" height="230" alt="iZBq3gWETniVJRSeuqRMdD" src="https://github.com/user-attachments/assets/4361c57d-11ae-4d11-ba80-79582289e178" />
-
-
-
-
-
-
-
 
 
  
@@ -29,10 +16,16 @@ ___
 
 
 
+<div align="right">
+
+<img width="500" height="500" alt="zsl-wzKOuWre5C1GqPQGCD" src="https://github.com/user-attachments/assets/e46f9456-5dcf-4bb0-8ac6-2051866abb24" />
+
+
 
 <div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5010&pause=1000&color=FFD019&background=4C16E9&width=480&height=45&lines=%22-...Oh+my+Brahmagupta+I+have+a+beard.%22)](https://git.io/typing-svg)
 
-<img width="298" height="306" alt="Снимок экрана 2026-10-23 201533" src="https://github.com/user-attachments/assets/2b5c5c78-d49d-46f8-afa4-a8b6d74ebefd" />
 
 
 <div align="center">
